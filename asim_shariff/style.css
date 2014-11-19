@@ -1,0 +1,31 @@
+/* @developed by    Asim Shariff
+ * @package     	MVC config retrevial
+ * @created on  	19/11/2014
+ * @license     	VJIL Consulting Ltd.
+ * @page			style.css
+ * @description		Created for providing css for content data
+ */
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+	width:800px;
+	margin:0px 60px;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #CCCCFF;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
